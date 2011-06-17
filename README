@@ -1,2 +1,2 @@
-This a chef cookbook for installing scala. It's been tested with the vagrant
+This is a chef cookbook for installing scala. It's been tested with the vagrant
 32-bit lucid box.
